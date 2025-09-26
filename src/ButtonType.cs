@@ -1,6 +1,6 @@
 ﻿using Intellenum;
 
-namespace Soenneker.Quark.Enums.ButtonTypes;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// An HTML CSS keyword set in .NET enumeration form
