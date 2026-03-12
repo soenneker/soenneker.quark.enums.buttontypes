@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Quark.Enums.ButtonTypes.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Quark.Enums.ButtonTypes\Soenneker.Quark.Enums.ButtonTypes.csproj" />
     </ItemGroup>
 
     <ItemGroup>
